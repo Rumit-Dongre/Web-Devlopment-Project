@@ -215,11 +215,13 @@ nav {
   }
 
   .mainRight {
-    margin-top: 80px;
+
+    margin-top: 80px !important;
     box-shadow: 1px 11px 40px rgb(192, 126, 123) !important;
     width: 80% !important;
-    margin-right: 0 !important;
-    margin-bottom: 50%;
+  
+    margin-bottom: 50% !important;
+ 
   }
 }
 
